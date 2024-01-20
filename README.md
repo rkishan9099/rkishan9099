@@ -1,6 +1,6 @@
 
 ![wave](https://user-images.githubusercontent.com/77038659/130917013-c209e83c-4b93-4de6-9258-5f318f24ab60.png)
-<h1 align="center">Hi <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">, Full Stack Web Developer </h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">, I am Kishan Ramani </h1>
 <h4 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h4>
 
 <img align='right' rel:auto_play="1" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
@@ -10,14 +10,15 @@
 import SoftwareDeveloper from 'India';
 class Bio extends SoftwareDeveloper {
   name     = 'Kishan Ramani';
-  title    = 'Software Engineer' || 'Full Stack Web Developer';
+  title    =  'Full Stack Web Developer';
   location = 'Gujarat, India';
   availability = "Available to hire!!";
 }
 class Skills extends SoftwareDeveloper {
-  frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux'];
-  backend = ['NodeJs', 'ExpressJs', 'MongoDB','PHP','Python'];
-  ui = ["bootstrap"];
+  frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux','Nextjs'];
+  backend = ['NodeJs', 'ExpressJs', 'Nestjs','PHP'];
+  database:['Mongodb','MySQL']
+  ui = ["bootstrap",'Material UI','Tailwind css','...'];
 }
 ```
 <!--🪳ROACH&🕷️SPIDER--> 
@@ -62,7 +63,7 @@ class Skills extends SoftwareDeveloper {
 
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/akash-patel-2a83291b6" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/kishanbramani" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a title="kishanbramani@gmail.com" href="mailto:kishanbramani@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
   <a href="https://wa.me/919099458674" target="_blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-me" /></a>
 <!--   <a href="https://delightful-pegasus-1a757e.netlify.app" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a> -->
