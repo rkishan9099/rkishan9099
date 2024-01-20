@@ -70,8 +70,8 @@ class Skills extends SoftwareDeveloper {
 </p>
 <br />
 
-![Akash's github stats](https://github-readme-stats.vercel.app/api?username=rkishan9099&count_private=true&show_icons=true&theme=shades-of-purple&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkishan9099&layout=compact&langs_count=10&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Kishan's github stats](https://github-readme-stats.vercel.app/api?username=rkishan9099&count_private=true&show_icons=true&theme=shades-of-purple&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkishan9099&layout=compact&langs_count=10&theme=dracula&show_icons=true)](https://github.com/rkishan9099/github-readme-stats)
 <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=rkishan9099&count_private=true&theme=radical" alt="mostlypanda">
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkishan9099&theme=vue" alt="summarycard"/> </p>
 <img src="https://github-profile-trophy.vercel.app/?username=rkishan9099&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
