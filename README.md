@@ -1,6 +1,6 @@
 
 ![wave](https://user-images.githubusercontent.com/77038659/130917013-c209e83c-4b93-4de6-9258-5f318f24ab60.png)
-<h1 align="center">Hi <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">, I'm Heavy Developer </h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">, Full Stack Web Developer </h1>
 <h4 align="center" margin="0px">I am a Full Stack Web Developer, passionate about building digital products that improve the everyday experience for people.</h4>
 
 <img align='right' rel:auto_play="1" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250">
