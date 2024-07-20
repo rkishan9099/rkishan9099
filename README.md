@@ -15,10 +15,10 @@ class Bio extends SoftwareDeveloper {
   availability = "Available to hire!!";
 }
 class Skills extends SoftwareDeveloper {
-  frontend  = ['JavaScript', 'HTML', 'CSS', 'React', 'Redux','Nextjs'];
-  backend = ['NodeJs', 'ExpressJs', 'Nestjs','PHP'];
+  frontend : ['JavaScript', 'HTML', 'CSS', 'React', 'Redux','Nextjs'];
+  backend: ['NodeJs', 'ExpressJs', 'Nestjs','PHP','Laravel','Codigniter','Yi2'];
   database:['Mongodb','MySQL']
-  ui = ["bootstrap",'Material UI','Tailwind css','...'];
+  ui : ["bootstrap",'Material UI','Tailwind css','...'];
 }
 ```
 <!--🪳ROACH&🕷️SPIDER--> 
